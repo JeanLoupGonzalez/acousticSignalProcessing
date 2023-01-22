@@ -1,3 +1,6 @@
+"""
+    Extracting energy levels of signals (Mel scale)
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from math import floor
